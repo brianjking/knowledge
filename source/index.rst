@@ -14,6 +14,8 @@ Contents:
    :caption: Misc
 
    wordpress
+   cli
+   restructuredtext
 
 
 Indices and tables
