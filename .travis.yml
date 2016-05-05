@@ -16,6 +16,6 @@ install:
 - conda install --yes python="2.7" sphinx
 - pip install --user travis-sphinx
 script:
-    - travis-sphinx build
+    - travis-sphinx --source=source build
 after_success:
     - travis-sphinx deploy
