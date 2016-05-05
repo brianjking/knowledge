@@ -9,8 +9,11 @@ Welcome to Snips's documentation!
 Contents:
 
 .. toctree::
+   :hidden:
    :maxdepth: 2
+   :caption: Misc
 
+   wordpress
 
 
 Indices and tables
