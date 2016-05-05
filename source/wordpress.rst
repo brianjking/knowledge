@@ -1,5 +1,5 @@
 WordPress
 ================
 
-
-`#footer-info {display:none;}`
+.. code-block:: css
+	#footer-info {display:none;}
