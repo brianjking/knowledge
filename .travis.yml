@@ -1,1 +1,20 @@
-
+language: python
+python:
+- '2.7'
+env:
+  - TOXENV=markdown-lint
+install: 
+- pip install -q -r requirements.txt
+- gem install mdl
+- pip install tox
+script: 
+#- tox
+- make html
+matrix:
+  fast_finish: true
+#  allow_failures:
+#   - env: TOXENV=markdown-lint
+# after_success: curl -X POST https://readthedocs.org/build/dueling-dogs-online-documentation
+notifications:
+  email: false 
+  slack: false
