@@ -55,6 +55,8 @@ Style Contact Form7 to match Divi Theme Default Styles
 Style Ninja Forms to Match Divi Default Styles
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+* Source: http://highpeakstech.com/ninja-forms-css-styling-for-divi/
+
 .. code-block:: css
 
 	/* START - Divi Ninja Form Styling */
