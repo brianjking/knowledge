@@ -15,6 +15,8 @@ Contents:
 
    wordpress
    cli
+   windows-10-bash
+   git-tips
    restructuredtext
 
 
