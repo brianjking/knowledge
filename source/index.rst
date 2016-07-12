@@ -4,7 +4,6 @@ BK's Snippets
 Contents:
 
 .. toctree::
-   :hidden:
    :maxdepth: 2
    :caption: Misc
 
