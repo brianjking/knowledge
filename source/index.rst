@@ -1,7 +1,7 @@
 BK's Snippets
 =================================
 
-Contents:
+
 
 .. toctree::
    :maxdepth: 2
