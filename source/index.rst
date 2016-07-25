@@ -2,7 +2,6 @@ BK's Snippets
 =================================
 
 
-
 .. toctree::
    :maxdepth: 2
    :caption: Misc
