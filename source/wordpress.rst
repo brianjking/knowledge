@@ -124,3 +124,10 @@ Style Ninja Forms to Match Divi Default Styles
 	width: 170px;
 	}
 	/* END - Divi Ninja Form Styling */
+
+
+Misc Links
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* http://www.elegantthemes.com/blog/divi-resources/5-useful-divi-global-modules-how-to-build-them
+* http://www.elegantthemes.com/blog/divi-resources/5-websites-to-find-free-divi-layout-packs
