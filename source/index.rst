@@ -11,6 +11,7 @@ BK's Snippets
    windows-10-bash
    git-tips
    restructuredtext
+   gitbook
 
 
 Indices and tables
