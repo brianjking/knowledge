@@ -10,6 +10,7 @@ BK's Snippets
    cli
    windows-10-bash
    git-tips
+   macos
    restructuredtext
    gitbook
 
