@@ -126,6 +126,19 @@ Style Ninja Forms to Match Divi Default Styles
 	/* END - Divi Ninja Form Styling */
 
 
+Postman SMTP Plugin Fix for Sendgrid API for File Attachments
+---------------------------------------------------------------
+
+* Source: https://gist.github.com/brianjking/f2bb607b12ea70daf4135dc9f4bf0815
+* File: `PostmanSendGridMailEngine.php`
+
+.. code-block:: php
+
+	//$this->email->addAttachment ( basename ( $file ) ); /* Line 189 in PostmanSendGridMailEngine.php*/
+	$this->email->addAttachment ( $file ); /* New Line*/
+
+
+
 Misc Links
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
