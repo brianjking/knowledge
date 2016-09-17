@@ -12,7 +12,7 @@ Check For HSTS Preloading via Terminal
 Misc
 ---------------------------------------
 
-   ex. ::
+   Run the last command again, now with more superuser::
    
 	sudo !! 
 
