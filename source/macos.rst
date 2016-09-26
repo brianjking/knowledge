@@ -8,4 +8,13 @@ Show Dotfiles in Finder.app
    
 	defaults write com.apple.Finder AppleShowAllFiles YES
 
-* Reminder: Finder must be relaunched after running this command in Terminal/iTerm.app. 
+* Reminder: Finder must be relaunched after running this command in Terminal/iTerm.app.
+
+Emoji
+-----------------------------
+
+Open the Character Viewer: In a document, choose Edit > Emoji & Symbols, or press Control-Command-Space
+
+   ex. ::
+   
+	⌘ + Control + Space 
