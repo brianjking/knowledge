@@ -32,3 +32,5 @@ To Sort
 * Fast Grep - https://github.com/caiogondim/knowledge/blob/master/unix/unix.md
 * More grep fun - https://github.com/caiogondim/knowledge/blob/master/git/index.md#grep-in-files-with-certain-extensions
 * Beginning Grep - https://www.linux.com/learn/beginning-grep-linux-sysadmins
+* SED - http://www.tecmint.com/linux-sed-command-tips-tricks/
+* Setting $PATH variables.
