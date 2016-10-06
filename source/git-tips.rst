@@ -8,3 +8,4 @@ See `Git Tips wiki <https://github.com/bootstraponline/meta/wiki/Simple-Git>`_ f
 * http://blog.vihan.org/index.php/2016/08/14/resolving-git-accidents-101/
 * https://github.com/WebDevStudios/CLI-Cheat-Sheet/blob/master/git-commands.md
 * [Amend a commit](https://blog.codeminer42.com/git-basics-adding-more-changes-to-your-last-commit-1629344cb9a8#.nl2inavri)
+* [Resolving Git Conflicts](https://easyengine.io/tutorials/git/git-resolve-merge-conflicts/)
