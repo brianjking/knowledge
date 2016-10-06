@@ -34,3 +34,4 @@ To Sort
 * Beginning Grep - https://www.linux.com/learn/beginning-grep-linux-sysadmins
 * SED - http://www.tecmint.com/linux-sed-command-tips-tricks/
 * Setting $PATH variables.
+* CURL cheat sheet - http://bagder.github.io/curl-cheat-sheet/http-sheet.html
