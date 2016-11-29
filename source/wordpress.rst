@@ -144,3 +144,4 @@ Misc Links
 
 * http://www.elegantthemes.com/blog/divi-resources/5-useful-divi-global-modules-how-to-build-them
 * http://www.elegantthemes.com/blog/divi-resources/5-websites-to-find-free-divi-layout-packs
+* `WordPress Functions (GitHub) <https://github.com/taniarascia/wp-functions>`_ 
