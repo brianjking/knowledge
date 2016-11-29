@@ -1,4 +1,4 @@
-BK's Snippets
+Knowledge
 =================================
 
 
@@ -14,6 +14,7 @@ BK's Snippets
    restructuredtext
    markdown
    gitbook
+   misc
 
 
 Indices and tables
