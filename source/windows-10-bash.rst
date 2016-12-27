@@ -8,7 +8,11 @@ Using ZSH as Default $SHELL
 
 * Add the following to .bash_profile or .bashrc (to the top). See https://github.com/robbyrussell/oh-my-zsh/issues/5401#issuecomment-250828518 for more info.
 
-    if [[ $- == *i* ]]; then
+.. code-block::
+   :linenos:
+   
+   if [[ $- == *i* ]]; then
         export SHELL=zsh
         exec zsh -l
     fi
+
