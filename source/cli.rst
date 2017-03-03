@@ -16,8 +16,12 @@ Misc
    
 	sudo !! 
 
+Curl Cheat Sheet
+------------------------------------
 
+.. image:: curl-cheat-sheet.png
 
+* Source: http://bagder.github.io/curl-cheat-sheet/http-sheet.html
 
 To Sort 
 -------------------------------
